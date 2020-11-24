@@ -1,6 +1,0 @@
-framework module Pods_OCRSampleTests {
-  umbrella header "Pods-OCRSampleTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
