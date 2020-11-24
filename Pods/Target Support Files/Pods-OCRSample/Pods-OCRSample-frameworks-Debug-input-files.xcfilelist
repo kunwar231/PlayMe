@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OCRSample/Pods-OCRSample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SwiftyTesseract/SwiftyTesseract.framework
+${BUILT_PRODUCTS_DIR}/SwiftyTesseractRTE/SwiftyTesseractRTE.framework
