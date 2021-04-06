@@ -1,21 +1,12 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'OCRSample' do
+target 'Foody CookBook' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
+pod 'SDWebImage'
+pod 'ANLoader', :git => 'https://github.com/ANSCoder/ANLoader.git'
 
-  # Pods for OCRSample
-
-  pod 'SwiftyTesseractRTE',    '~> 2.0'
-
-  target 'OCRSampleTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'OCRSampleUITests' do
-    # Pods for testing
-  end
+  # Pods for Foody CookBook
 
 end
